@@ -10,7 +10,7 @@ A quick guide on how to turn your C source code into a program you can actually 
 
 ---
 
-### 🚀 The 2-Step Workflow
+### The 2-Step Workflow
 
 To run a C program in Linux, you always do two things: **Compile** it, then **Run** it.
 
